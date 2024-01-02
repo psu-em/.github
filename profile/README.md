@@ -1,5 +1,5 @@
-## Penn State University
-# Endpoint Management
+# Penn State University
+## Endpoint Management
 
 Dedicated to the deployment of system operating systems and software, these repositories assist in the process of managing Penn State endpoints.
 
