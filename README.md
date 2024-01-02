@@ -1,3 +1,1 @@
-# Penn State Endpoint Management
-
-Repositories for endpoint management. 
+Repo to create public readme
