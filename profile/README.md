@@ -3,8 +3,19 @@
 
 Dedicated to the deployment of system operating systems and software, these repositories assist in the process of managing Penn State endpoints.
 
-Pipelines:
+macOS AutoPkg Recipes
+=============================
+
+A private collection of [AutoPkg](https://github.com/autopkg/autopkg) recipes used by Endpoint Management for [Unified Endpoint Management](https://pennstateoffice365.sharepoint.com/sites/UEM) services. 
+
 [![AutoPkg workflow](https://github.com/psu-em/autopkg-recipes/actions/workflows/push.yml/badge.svg)](https://github.com/psu-em/autopkg-recipes/actions/workflows/push.yml)
+
+macOS Service Discovery Tool
+=============================
+
+Python3 script that formats DHCP Request and BSDP Inform packets, broadcasts them on the local network, and then reports the responses. Responses provide insight into the DHCP and NetBoot services clients are able to reach.
+
+[![ServiceDiscoveryTool workflow](https://github.com/psu-em/ServiceDiscoveryTool/actions/workflows/python-app.yml/badge.svg)](https://github.com/psu-em/ServiceDiscoveryTool/actions/workflows/python-app.yml)
 
 <!--
 
