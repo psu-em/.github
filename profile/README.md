@@ -3,6 +3,9 @@
 
 Dedicated to the deployment of system operating systems and software, these repositories assist in the process of managing Penn State endpoints.
 
+Pipelines:
+[![AutoPkg workflow](https://github.com/psu-em/autopkg-recipes/actions/workflows/push.yml/badge.svg)](https://github.com/psu-em/autopkg-recipes/actions/workflows/push.yml)
+
 <!--
 
 **Here are some ideas to get you started:**
