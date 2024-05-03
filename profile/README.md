@@ -17,6 +17,11 @@ Python3 script that formats DHCP Request and BSDP Inform packets, broadcasts the
 
 [![ServiceDiscoveryTool workflow](https://github.com/psu-em/ServiceDiscoveryTool/actions/workflows/python-app.yml/badge.svg)](https://github.com/psu-em/ServiceDiscoveryTool/actions/workflows/python-app.yml)
 
+macOS Labs Code
+============================
+The scripts and launch agents used to turn vanilla macOS into a customized lab system for Penn State
+
+[![macOS Lab Code Workflow](https://github.com/psu-em/macOS-Labs/actions/workflows/main.yml/badge.svg)](https://github.com/psu-em/macOS-Labs/actions/workflows/main.yml)
 <!--
 
 **Here are some ideas to get you started:**
