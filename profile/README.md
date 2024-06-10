@@ -22,8 +22,15 @@ Python3 script that formats DHCP Request and BSDP Inform packets, broadcasts the
 The scripts and launch agents used to turn vanilla macOS into a customized lab system for Penn State
 
 [![macOS Lab Code Workflow](https://github.com/psu-em/macOS-Labs/actions/workflows/main.yml/badge.svg)](https://github.com/psu-em/macOS-Labs/actions/workflows/main.yml)
-<!--
 
+
+[macOS pyPowerDaemon](https://github.com/psu-em/pypowerdaemon)
+============================
+The PyPowerDaemon is used to manage wake times throughout the day for check-ins and maintenance.
+
+[![macOS PowerDaemon Workflow](https://github.com/psu-em/pypowerdaemon/actions/workflows/main.yaml/badge.svg)](https://github.com/psu-em/pypowerdaemon/actions/workflows/main.yaml)
+
+<!--
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
