@@ -17,6 +17,12 @@ Python3 script that formats DHCP Request and BSDP Inform packets, broadcasts the
 
 [![ServiceDiscoveryTool workflow](https://github.com/psu-em/ServiceDiscoveryTool/actions/workflows/python-app.yml/badge.svg)](https://github.com/psu-em/ServiceDiscoveryTool/actions/workflows/python-app.yml)
 
+[jamf-exports](https://github.com/psu-em/jamf_exports)
+============================
+This repo contains the exported Jamf scripts and extension attributes for PSU.
+
+[![export scripts from jamf](https://github.com/psu-em/jamf_exports/actions/workflows/export.yml/badge.svg)](https://github.com/psu-em/jamf_exports/actions/workflows/export.yml)
+
 [macOS Labs Code](https://github.com/psu-em/macOS-Labs)
 ============================
 The scripts and launch agents used to turn vanilla macOS into a customized lab system for Penn State
