@@ -3,6 +3,13 @@
 
 Dedicated to the deployment of system operating systems and software, these repositories assist in the process of managing Penn State endpoints.
 
+[mMac App Patch Reporting](https://github.com/psu-em/patch_reports)
+=============================
+
+A selection of reporting functions for UEM, CLM, and Jamf.
+
+[![Mac App Patch Reporting](https://github.com/psu-em/patch_reports/actions/workflows/main.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/main.yml)
+
 [macOS AutoPkg Recipes](https://github.com/psu-em/autopkg-recipes)
 =============================
 
@@ -28,7 +35,6 @@ This repo contains the exported Jamf scripts and extension attributes for PSU.
 The scripts and launch agents used to turn vanilla macOS into a customized lab system for Penn State
 
 [![macOS Lab Code Workflow](https://github.com/psu-em/macOS-Labs/actions/workflows/main.yml/badge.svg)](https://github.com/psu-em/macOS-Labs/actions/workflows/main.yml)
-
 
 [macOS pyPowerDaemon](https://github.com/psu-em/pypowerdaemon)
 ============================
