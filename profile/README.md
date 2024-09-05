@@ -3,7 +3,7 @@
 
 Dedicated to the deployment of system operating systems and software, these repositories assist in the process of managing Penn State endpoints.
 
-[mMac App Patch Reporting](https://github.com/psu-em/patch_reports)
+[Mac App Patch Reporting](https://github.com/psu-em/patch_reports)
 =============================
 
 A selection of reporting functions for UEM, CLM, and Jamf.
