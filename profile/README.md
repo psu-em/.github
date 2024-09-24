@@ -13,8 +13,9 @@ A selection of reporting functions for UEM, CLM, and Jamf.
 ## [macOS AutoPkg Recipes](https://github.com/psu-em/autopkg-recipes)
 
 
-A private collection of [AutoPkg](https://github.com/autopkg/autopkg) recipes used by Endpoint Management for [Unified Endpoint Management](https://pennstateoffice365.sharepoint.com/sites/UEM) services. 
+A private collection of [AutoPkg](https://github.com/autopkg/autopkg) recipes used by Endpoint Management for [Unified Endpoint Management](https://pennstateoffice365.sharepoint.com/sites/UEM) services.
 
+[![AutoPkg Daily Run](https://github.com/psu-em/autopkg-recipes/actions/workflows/cron.yml/badge.svg)](https://github.com/psu-em/autopkg-recipes/actions/workflows/cron.yml)
 [![AutoPkg workflow](https://github.com/psu-em/autopkg-recipes/actions/workflows/push.yml/badge.svg)](https://github.com/psu-em/autopkg-recipes/actions/workflows/push.yml)
 
 ## [macOS Service Discovery Tool](https://github.com/psu-em/ServiceDiscoveryTool/)
