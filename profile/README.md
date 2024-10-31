@@ -10,6 +10,7 @@ A selection of reporting functions for UEM, CLM, and Jamf.
 
 [![Mac App Patch Reporting](https://github.com/psu-em/patch_reports/actions/workflows/main.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/main.yml)
 [![Email Patch Reports](https://github.com/psu-em/patch_reports/actions/workflows/patch.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/patch.yml)
+[![Email and Isolate Stale Devices](https://github.com/psu-em/patch_reports/actions/workflows/stale.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/stale.yml)
 
 ## [macOS AutoPkg Recipes](https://github.com/psu-em/autopkg-recipes)
 
