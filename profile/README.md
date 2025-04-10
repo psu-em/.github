@@ -20,6 +20,10 @@ A private collection of [AutoPkg](https://github.com/autopkg/autopkg) recipes us
 [![AutoPkg Daily Run](https://github.com/psu-em/autopkg-recipes/actions/workflows/cron.yml/badge.svg)](https://github.com/psu-em/autopkg-recipes/actions/workflows/cron.yml)
 [![AutoPkg workflow](https://github.com/psu-em/autopkg-recipes/actions/workflows/push.yml/badge.svg)](https://github.com/psu-em/autopkg-recipes/actions/workflows/push.yml)
 
+## [Windows AutoPkg Recipes](https://github.com/psu-em/autopkg-recipes-win)
+
+[![AutoPkg Win Daily Run](https://github.com/psu-em/autopkg-recipes-win/actions/workflows/daily.yml/badge.svg?branch=master)](https://github.com/psu-em/autopkg-recipes-win/actions/workflows/daily.yml)
+
 ## [macOS Service Discovery Tool](https://github.com/psu-em/ServiceDiscoveryTool/)
 
 
