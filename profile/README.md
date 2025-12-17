@@ -12,6 +12,7 @@ A selection of reporting functions for UEM, CLM, and Jamf.
 [![Build UEM BigFix Reports](https://github.com/psu-em/patch_reports/actions/workflows/build_bf.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/build_bf.yml)
 [![Email Patch Reports](https://github.com/psu-em/patch_reports/actions/workflows/patch.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/patch.yml)
 [![Email Stale Devices Reports](https://github.com/psu-em/patch_reports/actions/workflows/stale.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/stale.yml)
+[![Email Missing Username Devices Reports](https://github.com/psu-em/patch_reports/actions/workflows/missing_user_email.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/missing_user_email.yml)
 [![Isolate Stale Devices](https://github.com/psu-em/patch_reports/actions/workflows/isolate.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/isolate.yml)
 ## [macOS AutoPkg Recipes](https://github.com/psu-em/autopkg-recipes)
 
