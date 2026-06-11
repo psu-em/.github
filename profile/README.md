@@ -6,14 +6,21 @@ Dedicated to the deployment of system operating systems and software, these repo
 ## [UEM Patch Reporting](https://github.com/psu-em/patch_reports)
 
 
-A selection of reporting functions for UEM, CLM, and Jamf.
+A selection of actions running functions for UEM, CLM, and Jamf.
+
+### Reports
 
 [![Build UEM Jamf Reports](https://github.com/psu-em/patch_reports/actions/workflows/build_jamf.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/build_jamf.yml)
 [![Build UEM BigFix Reports](https://github.com/psu-em/patch_reports/actions/workflows/build_bf.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/build_bf.yml)
+
+### Emails
+
 [![Build UEM MCM Reports](https://github.com/psu-em/patch_reports/actions/workflows/build_mcm.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/build_mcm.yml)
 [![Email Patch Reports](https://github.com/psu-em/patch_reports/actions/workflows/patch.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/patch.yml)
 [![Email Stale Devices Reports](https://github.com/psu-em/patch_reports/actions/workflows/stale.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/stale.yml)
 [![Email Missing Username Devices Reports](https://github.com/psu-em/patch_reports/actions/workflows/missing_user_email.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/missing_user_email.yml)
+
+### Actions
 [![Isolate Stale Devices](https://github.com/psu-em/patch_reports/actions/workflows/isolate.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/isolate.yml)
 ## [macOS AutoPkg Recipes](https://github.com/psu-em/autopkg-recipes)
 
