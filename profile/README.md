@@ -12,10 +12,10 @@ A selection of actions running functions for UEM, CLM, and Jamf.
 
 [![Build UEM Jamf Reports](https://github.com/psu-em/patch_reports/actions/workflows/build_jamf.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/build_jamf.yml)
 [![Build UEM BigFix Reports](https://github.com/psu-em/patch_reports/actions/workflows/build_bf.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/build_bf.yml)
+[![Build UEM MCM Reports](https://github.com/psu-em/patch_reports/actions/workflows/build_mcm.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/build_mcm.yml)
 
 ### Emails
 
-[![Build UEM MCM Reports](https://github.com/psu-em/patch_reports/actions/workflows/build_mcm.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/build_mcm.yml)
 [![Email Patch Reports](https://github.com/psu-em/patch_reports/actions/workflows/patch.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/patch.yml)
 [![Email Stale Devices Reports](https://github.com/psu-em/patch_reports/actions/workflows/stale.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/stale.yml)
 [![Email Missing Username Devices Reports](https://github.com/psu-em/patch_reports/actions/workflows/missing_user_email.yml/badge.svg)](https://github.com/psu-em/patch_reports/actions/workflows/missing_user_email.yml)
