@@ -47,7 +47,7 @@ Python3 script that formats DHCP Request and BSDP Inform packets, broadcasts the
 
 This repo contains the exported Jamf scripts and extension attributes for PSU.
 
-[![export scripts from jamf](https://github.com/psu-em/jamf_exports/actions/workflows/export.yml/badge.svg)](https://github.com/psu-em/jamf_exports/actions/workflows/export.yml)
+[![export scripts from jamf](https://github.com/psu-em/jamf_exports/actions/workflows/export.yml/badge.svg?branch=main)](https://github.com/psu-em/jamf_exports/actions/workflows/export.yml)
 
 ## [macOS Labs Code](https://github.com/psu-em/macOS-Labs)
 
