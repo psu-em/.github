@@ -49,6 +49,12 @@ This repo contains the exported Jamf scripts and extension attributes for PSU.
 
 [![export scripts from jamf](https://github.com/psu-em/jamf_exports/actions/workflows/export.yml/badge.svg?branch=main)](https://github.com/psu-em/jamf_exports/actions/workflows/export.yml)
 
+## [UEM Codebase](https://github.com/psu-em/UEM-Codebase)
+
+UEM Codebase for various systems and tools within EDM.
+
+[![Update Warranty in Jamf](https://github.com/psu-em/UEM-Codebase/actions/workflows/python-app.yml/badge.svg)](https://github.com/psu-em/UEM-Codebase/actions/workflows/python-app.yml)
+
 ## [macOS Labs Code](https://github.com/psu-em/macOS-Labs)
 
 The scripts and launch agents used to turn vanilla macOS into a customized lab system for Penn State
