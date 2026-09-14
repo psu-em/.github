@@ -43,11 +43,19 @@ Python3 script that formats DHCP Request and BSDP Inform packets, broadcasts the
 
 [![ServiceDiscoveryTool workflow](https://github.com/psu-em/ServiceDiscoveryTool/actions/workflows/python-app.yml/badge.svg)](https://github.com/psu-em/ServiceDiscoveryTool/actions/workflows/python-app.yml)
 
+# UEM Exports
+
 ## [jamf-exports](https://github.com/psu-em/jamf_exports)
 
 This repo contains the exported Jamf scripts and extension attributes for PSU.
 
 [![export scripts from jamf](https://github.com/psu-em/jamf_exports/actions/workflows/export.yml/badge.svg?branch=main)](https://github.com/psu-em/jamf_exports/actions/workflows/export.yml)
+
+## [bes-exports](https://github.com/psu-em/bes_exports)
+
+This repo contains the exported BigFix sites for PSU.
+
+[![export scripts from BigFix](https://github.com/psu-em/bes_exports/actions/workflows/BESexport.yml/badge.svg)](https://github.com/psu-em/bes_exports/actions/workflows/BESexport.yml)
 
 ## [UEM Codebase](https://github.com/psu-em/UEM-Codebase)
 
