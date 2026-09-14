@@ -45,6 +45,12 @@ Python3 script that formats DHCP Request and BSDP Inform packets, broadcasts the
 
 # UEM Exports
 
+## [mcm-exports](https://github.com/psu-em/mcm_exports)
+
+This repo contains the exported MCM content for PSU.
+
+[![Export Applications from MCM instance(s)](https://github.com/psu-em/mcm_exports/actions/workflows/applications.yml/badge.svg)](https://github.com/psu-em/mcm_exports/actions/workflows/applications.yml)
+
 ## [jamf-exports](https://github.com/psu-em/jamf_exports)
 
 This repo contains the exported Jamf scripts and extension attributes for PSU.
