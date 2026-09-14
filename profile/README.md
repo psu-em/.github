@@ -53,7 +53,8 @@ This repo contains the exported Jamf scripts and extension attributes for PSU.
 
 UEM Codebase for various systems and tools within EDM.
 
-[![Update Warranty in Jamf](https://github.com/psu-em/UEM-Codebase/actions/workflows/python-app.yml/badge.svg)](https://github.com/psu-em/UEM-Codebase/actions/workflows/python-app.yml)
+[![Retry UEM Jamf Apps in Jamf](https://github.com/psu-em/UEM-Codebase/actions/workflows/retry-apps.yml/badge.svg)](https://github.com/psu-em/UEM-Codebase/actions/workflows/retry-apps.yml)
+[![Update Warranty in Jamf](https://github.com/psu-em/UEM-Codebase/actions/workflows/jamf-asm-warranty.yml/badge.svg)](https://github.com/psu-em/UEM-Codebase/actions/workflows/jamf-asm-warranty.yml)
 
 ## [macOS Labs Code](https://github.com/psu-em/macOS-Labs)
 
