@@ -34,7 +34,7 @@ A private collection of [AutoPkg](https://github.com/autopkg/autopkg) recipes us
 
 A private collection of Windows [AutoPkg](https://github.com/autopkg/autopkg) recipes used by Endpoint Management for [Unified Endpoint Management](https://pennstateoffice365.sharepoint.com/sites/UEM) services.
 
-[![AutoPkg Win Daily Run](https://github.com/psu-em/autopkg-recipes-win/actions/workflows/daily.yml/badge.svg?branch=master)](https://github.com/psu-em/autopkg-recipes-win/actions/workflows/daily.yml)
+[![AutoPkg Win Weekly Run](https://github.com/psu-em/autopkg-recipes-win/actions/workflows/weekly.yml/badge.svg)](https://github.com/psu-em/autopkg-recipes-win/actions/workflows/weekly.yml)
 
 ### [macOS Service Discovery Tool](https://github.com/psu-em/ServiceDiscoveryTool/)
 
